@@ -3,7 +3,7 @@ body {
     height: 100vh;
     align-items: center;
     justify-content: center;
-    background: url("cx.png");
+    background: url("bg.jpg");
     background-size: cover;
     background-repeat: no-repeat;
 }
